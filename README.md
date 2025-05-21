@@ -1,1 +1,3 @@
 # Gemini-talk
+<div style="text-align: justify"> ZHIPU-Talk is a conversational AI tool based on the Zhipu AI platform. It aims to provide an interactive chatbot experience that leverages AI to simulate human-like conversations. The tool may offer various features, such as handling user queries, providing intelligent responses, and enabling seamless communication. Its core objective is to facilitate user interaction through an AI-powered assistant capable of learning and improving from conversations. <a href="https://sean28.github.io/Gemini-talk/">here</a>.</div>
+<div style="text-align: justify"> <br> </div>
